@@ -26,7 +26,7 @@ section {
     width: 100%;
     height: 100%;
     background-image:url(../FIGURA/cerrado.png) ;
-    background-size:contain;
+    background-size:55%;
     clip-path: circle(50% at bottom right);
 }
 
